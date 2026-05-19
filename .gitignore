@@ -1,0 +1,19 @@
+# Data files
+data/raw/
+data/interim/
+data/processed/
+output/
+
+# Generated data/model files
+*.parquet
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# VSCode
+.vscode/
